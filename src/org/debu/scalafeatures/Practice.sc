@@ -80,5 +80,7 @@ class NestedFunctionExample {
                                                   //| 
   val addAgain56=add5Again(6)                     //> addAgain56  : Int = 11
                                                   
-                                                  
+              
+              
+
 }
